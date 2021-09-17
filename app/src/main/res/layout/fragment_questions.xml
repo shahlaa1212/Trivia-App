@@ -132,7 +132,7 @@
         android:elevation="8dp"
         android:gravity="center"
         android:textColor="@color/teal_700"
-        android:textSize="18sp"
+        android:textSize="25sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="@+id/view2"
         app:layout_constraintEnd_toEndOf="@+id/view2"
