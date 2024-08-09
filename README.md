@@ -12,7 +12,7 @@
 </p>
 
 ## 📝 Trivia Game App
-This is a Trivia app simple built using XML ui, designed to Answer all questions by choosing the correct question demonstrate how to implement sample and easy ui and adding Show the correct question and the wrong question. The app allows users to interactively customize their questions
+This is a Trivia app simple built using XML ui, designed to Answer all questions by choosing the correct question demonstrate how to implement sample and easy ui and adding Show the correct question and the wrong question. The app allows users to interactively customize their questions.
 
 ## 🎬 Demo
 https://streamable.com/fmj04o
